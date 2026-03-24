@@ -1,0 +1,6 @@
+@FlightDataApi_HostAddress = http://localhost:5160
+
+GET {{FlightDataApi_HostAddress}}/flightdata/
+Accept: application/json
+
+###
