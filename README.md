@@ -6,7 +6,9 @@ this is my first API ive created from scratch. This is a minimal API intended to
 
 ## Lessons Learned
 
-- I re-learned alot of what I learned about APIs during my time at WGU obtaining my CS degree. Alot of this felt/looked familiar, but it took some time re-educating myself. 
+- I re-learned alot of what I learned about APIs during my time at WGU obtaining my CS degree. Alot of this felt/looked familiar, but it took some time re-educating myself.
+- Spend some time educating myself on Http status codes, which I had an idea of, but need to know better.
+  
 
 
 ## Goals
