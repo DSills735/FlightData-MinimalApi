@@ -14,3 +14,6 @@ this is my first API ive created from scratch. This is a minimal API intended to
 ## Goals
 
 Eventually, I would like to add a frontend to this that I can use to track my actual historical flight data. I would also like to add a tail number section, as I enjoy being a nerd and tracking all the planes I have been on before.
+
+## Testing
+I used postman to test the API. I used raw JSON as an input into the API to test POST methods. All worked appropriately. I have not messed with swagger before, but I will return to try that out as well. 
